@@ -72,6 +72,37 @@ El programa fue elaborado por:
 
 **Materia:** Teoría de la Computación  
 **Institución:** Instituto Politécnico Nacional - Escuela Superior de Computo
+## 🤝 Contribuciones
+
+Si eres colabororador en este programa, por favor sigue este flujo de trabajo:
+
+### 1️ Crear una rama propia (puede ser tu nombre)
+```bash
+git checkout -b tuRama
+ ```
+### 2 Debes de raer los últimos cambios de la rama principal
+```bash
+git checkout main
+git pull origin main
+ ```
+### 3 Actualizar tu rama con los cambios de main
+```bash
+git checkout tuRama
+git merge main
+ ```
+Ojo si hay conlfictos resuelvelos 
+### 4 Realiza tu commit (que fue lo que implementaste)
+```bash
+git add .
+git commit -m "Descripción clara de los cambios realizados"
+ ```
+### 5 Sube tu rama al repositorio
+```bash
+git push origin tuRama
+ ```
+### 6 Abrir un Pull Request (PR) en GitHub
+Describe claramente los cambios realizados.
+No fuerces tus cambios en la rama principal
 
 Agradecemos cualquier comentario o sugerencia que contribuya a mejorar el programa =).  
 Se pueden realizar colaboraciones mediante comentarios o pull requests.
