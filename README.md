@@ -71,7 +71,7 @@ El programa fue elaborado por:
 -  **Renata**
 
 **Materia:** Teoría de la Computación  
-**Institución:** Instituto Politécnico Nacional
+**Institución:** Instituto Politécnico Nacional - Escuela Superior de Computo
 
 Agradecemos cualquier comentario o sugerencia que contribuya a mejorar el programa =).  
 Se pueden realizar colaboraciones mediante comentarios o pull requests.
