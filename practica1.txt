@@ -1,0 +1,32 @@
+Practica 1 - OPERACIONES BASICAS DE LENGUJES 
+
+
+-----------------RESULTADOS DE SUBCADENAS-------------\t
+h
+ho
+hol
+hola
+o
+ol
+ola
+l
+la
+a
+-----------------RESULTADOS DE PREFIJO-------------
+	
+
+h
+ho
+hol
+hola
+-----------------RESULTADOS DE SUFIJO-------------	
+
+hola
+ola
+la
+a
+
+hola
+ola
+la
+a
