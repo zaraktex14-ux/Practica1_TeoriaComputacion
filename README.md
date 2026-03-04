@@ -1,4 +1,4 @@
-# 🎓 Desarrollo de Interfaz Gráfica para Operaciones Básicas en Teoría de la Computación
+# Desarrollo de un progrma para Operaciones Básicas en Teoría de la Computación
 
 ![Java](https://img.shields.io/badge/Java-JDK%208+-orange)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)
